@@ -1,13 +1,12 @@
 # Stop-watch-timer
 it's a simple Mini Project Using Atmega32 to count time and overflow when reach to 100 Hours
-
-Using ATmega32 Microcontroller with frequency 1Mhz.
+using ATmega32 Microcontroller with frequency 1Mhz.
 
 Timer1 in ATmega32 with CTC mode to count the Stop Watch time.
 
-six Common Anode 7-segments.
+Six Common Anode 7-segments.
 
-six 7-segments in the project using the multiplexed technique.
+Six 7-segments in the project using the multiplexed technique.
 
 one 7447 decoder for all 7-segments.
 ## Stop watch features
